@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there I am Rishabh Agarwal👋
 
+* I'm a student at University of Calgary.
+* I have interests in AI, ML, DL, LLMs, Generative AI to name a few.
+* 🔭 I’m currently working on a mobile app called Idea-Docket.
+* Feel free to send cool things my way!
+* 📫 How to reach me: You can reach me via LinkedIn! I'll be happy to connect with you!
+* 
 <!--
 **GodRishUniverse/GodRishUniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
