@@ -2,8 +2,7 @@
 
 * I'm a student at University of Calgary.
 * I have interests in AI, ML, DL, LLMs, Generative AI to name a few.
-* 🔭 I’m currently working on a mobile app called Idea-Docket.
-* Feel free to send cool things my way!
+* Feel free to send cool technological ideas/things my way!
 * 📫 How to reach me: You can reach me via LinkedIn! I'll be happy to connect with you!
 
 <!--
