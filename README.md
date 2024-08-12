@@ -1,7 +1,7 @@
 ## Hi there I am Rishabh Agarwal👋
 
 * I'm a student at University of Calgary.
-* I have interests in AI, ML, DL, LLMs, Generative AI to name a few.
+* I have interests in AI, ML, DL, LLMs, Generative AI, Computer Graphics, Data Science to name a few.
 * Feel free to send cool technological ideas/things my way!
 * 📫 How to reach me: You can reach me via LinkedIn! I'll be happy to connect with you!
 
