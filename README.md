@@ -1,19 +1,20 @@
 <h1 style="text-align: center;">Hi there! I am Rishabh Agarwal👋</h1>
 
-## About ME
+<h2 style="text-align: center;"> About ME </h2>
 
 * I'm a student at University of Calgary.
 * I have interests in AI, ML, DL, LLMs, Generative AI, Computer Graphics, Data Science to name a few.
 * Feel free to send cool technological ideas/things my way!
 * 📫 How to reach me: You can reach me via LinkedIn! I'll be happy to connect with you!
 
-## Tech Stack
+<h2 style="text-align: center;"> Tech Stack </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,flask,c,java,dart,flutter,firebase,r,matlab,mysql,latex,html,css,git"  alt="Tech Stack" />
   </a>
 </p>
 
+<h2 style="text-align: center;"> Contact Me </h2>
 <a href="https://www.linkedin.com/in/rishabh-agarwal-33895b245/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
 </a>
