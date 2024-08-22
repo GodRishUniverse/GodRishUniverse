@@ -6,8 +6,7 @@
 * I have interests in AI, ML, DL, LLMs, Generative AI, Computer Graphics, Data Science to name a few.
 * Feel free to send cool technological ideas/things my way!
 * 📫 How to reach me: You can reach me via LinkedIn! I'll be happy to connect with you!
-
-## Tech Stack
+  
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,flask,c,java,dart,flutter,firebase,r,matlab,mysql,latex,html,css,)](https://skillicons.dev)
 
 <!--
