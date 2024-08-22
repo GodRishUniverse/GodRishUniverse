@@ -1,4 +1,4 @@
-# Hi there! I am Rishabh Agarwal👋
+<h1 style="text-align: center;">Hi there! I am Rishabh Agarwal👋</h1>
 
 ## About ME
 
