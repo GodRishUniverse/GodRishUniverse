@@ -7,11 +7,16 @@
 * Feel free to send cool technological ideas/things my way!
 * 📫 How to reach me: You can reach me via LinkedIn! I'll be happy to connect with you!
 
+## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,flask,c,java,dart,flutter,firebase,r,matlab,mysql,latex,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,flask,c,java,dart,flutter,firebase,r,matlab,mysql,latex,html,css,git"  alt="Tech Stack" />
   </a>
 </p>
+
+<a href="https://www.linkedin.com/in/daniel-bellmas/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
+</a>
 
 
 <!--
