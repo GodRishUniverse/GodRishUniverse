@@ -1,9 +1,14 @@
-## Hi there I am Rishabh Agarwal👋
+# Hi there I am Rishabh Agarwal👋
+
+## About ME
 
 * I'm a student at University of Calgary.
 * I have interests in AI, ML, DL, LLMs, Generative AI, Computer Graphics, Data Science to name a few.
 * Feel free to send cool technological ideas/things my way!
 * 📫 How to reach me: You can reach me via LinkedIn! I'll be happy to connect with you!
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 
 <!--
 **GodRishUniverse/GodRishUniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
