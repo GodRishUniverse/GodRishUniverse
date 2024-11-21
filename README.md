@@ -3,7 +3,7 @@
 <h2 style="text-align: center;"> About ME </h2>
 
 * I'm a student at University of Calgary.
-* I have interests in AI, ML, DL, LLMs, Generative AI, Computer Graphics, Data Science to name a few.
+* I have interests in AI, ML, DL, Computer Graphics, AR/VR, BCI, Quantum Computing to name a few.
 * Feel free to send cool technological ideas/things my way!
 * 📫 How to reach me: You can reach me via LinkedIn! I'll be happy to connect with you!
 
