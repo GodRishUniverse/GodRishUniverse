@@ -6,6 +6,9 @@
 * I have interests in AI, ML, DL, Computer Graphics, AR/VR, BCI, Quantum Computing to name a few.
 * Feel free to send cool technological ideas/things my way!
 * 📫 How to reach me: You can reach me via LinkedIn! I'll be happy to connect with you!
+* Thank you for staying and looking at my profile!
+
+<h2 style="text-align: center;"> Actively Looking for AI/ML Internship Roles!!! If you have some roles then please reach out to me! Thank you</h2>
 
 <h2 style="text-align: center;"> Tech Stack </h2>
 <p align="center">
