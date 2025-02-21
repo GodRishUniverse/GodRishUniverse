@@ -1,12 +1,12 @@
-<h1 style="text-align: center;">Hi there! I am Rishabh Agarwal👋</h1>
+<h1 style="text-align: center;">I am Rishabh Agarwal👋</h1>
 
 <h2 style="text-align: center;"> About ME </h2>
 
-* I'm a student at University of Calgary.
-* I have interests in AI, ML, DL, Computer Graphics, AR/VR, BCI, Quantum Computing to name a few.
+* A passionate AI/ML developer. 
+* 🔭 I’m currently working on Research Paper implementations
 * Feel free to send cool technological ideas/things my way!
-* 📫 How to reach me: You can reach me via LinkedIn! I'll be happy to connect with you!
-* Thank you for staying and looking at my profile!
+* 📫 Connect with me on LinkedIn or reach out to me: [agarwalrishabh2005@gmail.com](agarwalrishabh2005@gmail.com)
+* few of my other interests: Quantum Computing, Ar/VR, Blockchain, Computer Graphics and BCI to name a few.
 
 <h2 style="text-align: center;"> Actively Looking for AI/ML Internship Roles!!! If you have some roles then please reach out to me! Thank you</h2>
 
