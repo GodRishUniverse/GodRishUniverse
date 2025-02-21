@@ -2,13 +2,14 @@
 
 <h2 style="text-align: center;"> About ME </h2>
 
-* A passionate AI/ML developer. 
+* I like to innovate.
+*  A passionate AI/ML developer. 
 * 🔭 I’m currently working on Research Paper implementations
 * Feel free to send cool technological ideas/things my way!
 * 📫 Connect with me on LinkedIn or reach out to me: [agarwalrishabh2005@gmail.com](agarwalrishabh2005@gmail.com)
-* few of my other interests: Quantum Computing, Ar/VR, Blockchain, Computer Graphics and BCI to name a few.
+* few of my other interests: Quantum Computing, Ar/VR, Blockchain, Computer Graphics, BCI and Material Sciences and Physics to name a few.
 
-<h2 style="text-align: center;"> Actively Looking for AI/ML Internship Roles!!! If you have some roles then please reach out to me! Thank you</h2>
+<h2 style="text-align: center;"> Interested in AI/ML Internship Roles. Feel free to contact me! </h2>
 
 <h2 style="text-align: center;"> Tech Stack </h2>
 <p align="center">
