@@ -9,7 +9,6 @@
 * 📫 Connect with me on LinkedIn or reach out to me: [agarwalrishabh2005@gmail.com](agarwalrishabh2005@gmail.com)
 * few of my other interests: Quantum Computing, AR/VR, Blockchain, Computer Graphics, BCI and Material Sciences and Physics to name a few.
 
-<h2 style="text-align: center;"> Interested in AI/ML Internship Roles. Feel free to contact me! </h2>
 
 
 <h2 style="text-align: center;"> Tech Stack </h2>
