@@ -5,7 +5,6 @@
 * I like to innovate.
 *  A passionate AI/ML developer. 
 * 🔭 I’m currently working on Research Paper implementations and Neural Networks in C++ and CUDA.
-* LEARNING ALGORITHMS! 
 * Feel free to send cool technological ideas/things my way!
 * 📫 Connect with me on LinkedIn or reach out to me: [agarwalrishabh2005@gmail.com](agarwalrishabh2005@gmail.com)
 * few of my other interests: Quantum Computing, AR/VR, Blockchain, Computer Graphics, BCI and Material Sciences and Physics to name a few.
