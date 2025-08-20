@@ -3,10 +3,10 @@
 <h2 style="text-align: center;"> About ME </h2>
 
 * I like to innovate.
-*  A passionate AI/ML developer. 
-* 🔭 I’m currently working on Research Paper implementations and Neural Networks in C++ and CUDA.
+* A passionate AI/ML developer. 
+* I’m currently working on Research Paper implementations and Neural Networks in C++ and CUDA.
 * Feel free to send cool technological ideas/things my way!
-* 📫 Connect with me on LinkedIn 
+* Connect with me on LinkedIn 
 * few of my other interests: Quantum Computing, AR/VR, Blockchain, Computer Graphics, BCI and Material Sciences and Physics to name a few.
 
 
