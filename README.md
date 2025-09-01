@@ -8,7 +8,7 @@
 * Some of my other interests: Quantum Computing, AR/VR, Blockchain, Computer Graphics, BCI and Material Sciences and Physics to name a few.
 
 
-* If you have something that enhances my knowledge, life or an poortunity for **me**, please feel free to email me at agarwalrishabh2005[at]gmail[dot]com
+* If you have something that enhances my knowledge, life or an opportunity for **me**, please feel free to email me at agarwalrishabh2005[at]gmail[dot]com
 * Connect with me on LinkedIn: send cool technological ideas/things my way!
 
 
