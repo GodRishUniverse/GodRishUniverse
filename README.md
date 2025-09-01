@@ -1,13 +1,15 @@
-<h1 style="text-align: center;">I am Rishabh Agarwal👋</h1>
+<h1 style="text-align: center;">I am Rishabh Agarwal : a polymath </h1>
 
 <h2 style="text-align: center;"> About ME </h2>
 
 * I like to innovate.
 * A passionate AI/ML developer. 
 * I’m currently working on Research Paper implementations and Neural Networks in C++ and CUDA.
-* Feel free to send cool technological ideas/things my way!
-* Connect with me on LinkedIn 
-* few of my other interests: Quantum Computing, AR/VR, Blockchain, Computer Graphics, BCI and Material Sciences and Physics to name a few.
+* Some of my other interests: Quantum Computing, AR/VR, Blockchain, Computer Graphics, BCI and Material Sciences and Physics to name a few.
+
+
+* If you have something that enhances my knowledge, life or an poortunity for **me**, please feel free to email me at agarwalrishabh2005[at]gmail[dot]com
+* Connect with me on LinkedIn: send cool technological ideas/things my way!
 
 
 
