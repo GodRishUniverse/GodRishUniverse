@@ -8,7 +8,7 @@
 * Some of my other interests: Competitive Programming, Algorithms, Quantum Computing, AR/VR, Blockchain and Web3, Computer Graphics, BCI, Cricket, and Material Sciences and Physics to name a few (I have a lot of things that I find interesting ~~and get overwhelmed too sometimes~~)
 
 
-* *If you have something that enhances my knowledge, makes my life more interesting or an opportunity* for **me**, please feel free to email me at *agarwalrishabh2005 [at] gmail [dot] com*
+* *If you have something that enhances my knowledge, makes my life more interesting or an opportunity* for **me**, please feel free to email me at *agarwalrishabh2005 [at] g[oogle]mail [dot] com*
 * I will respond if the proposals are a good match for my interests
 * Connect with me on LinkedIn: send cool technological ideas/things my way!
 
