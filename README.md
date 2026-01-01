@@ -3,8 +3,10 @@
 <h2 style="text-align: center;"> About ME </h2>
 
 * I like to innovate and make things I find interesting!
-* A passionate AI/DL/ML researcher/developer/aficionado and HPC enthusiast with interests in system design and large projects. 
-* I’m currently working on Research Paper implementations and Neural Networks in C++ and CUDA. ~~Need to restart 100 days of CUDA~~
+* A passionate AI/DL/ML researcher/developer/aficionado and HPC and distributed computing enthusiast with interests in system design and large projects. 
+* I’m currently working on Research Paper implementations and Neural Networks Engine in C++ and CUDA. ~~Need to restart 100 days of CUDA~~
+* Also learning Rust and found out about neuromorphics computing so will plan a project in that as well. I am also thinking of writing a dataloader in Rust for SimpleNet (my neural networks engine).
+
 * Experience and interests in : Deep Learning, Optimization and low level code, Algorithms, Computer Graphics, Cricket, and Material Sciences and Physics to name a few (I have a lot of things that I find interesting ~~and get overwhelmed too sometimes~~)
 
 
