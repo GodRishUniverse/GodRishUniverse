@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=py,pytorch,cpp,cuda,rust,tensorflow,sklearn,flask,c,java,dart,flutter,firebase,r,matlab,mysql,sqlite,latex,html,css,git,gitlab,docker,linux"
+      src="https://go-skill-icons.vercel.app/api/icons?i=py,pytorch,cpp,cuda,rust,tensorflow,sklearn,c,java,dart,flutter,firebase,r,matlab,mysql,sqlite,latex,html,css,git,gitlab,docker,linux"
     />
   </a>
 </p>
