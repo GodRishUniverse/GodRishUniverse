@@ -8,7 +8,7 @@
 * I recently joined the ROCm team at [AMD](https://www.amd.com/en.html) as a ML intern/Co-Op/PEY (Summer 2026).
 * I am also thinking of writing a dataloader in Rust/C++ for SimpleNet (my neural networks engine).
 
-* Experience and interests in : Startups, Deep Learning, Optimization and low level code, Algorithms, Computer Graphics, and Material Sciences and Physics to name a few (I have a lot of things that I find interesting ~~and get overwhelmed too everyday as I feel I'm not learning fast enough~~)
+* Experience and interests in : Startups, Deep Learning, Optimization, Low level code, ML Compilers (a new interest) and compilers in general, Algorithms, Computer Graphics, and Material Sciences and Physics to name a few (I have a lot of things that I find interesting ~~and get overwhelmed too everyday as I feel I'm not learning fast enough~~)
 
 
 * *If you have something that enhances my knowledge, makes my life more interesting or an opportunity* for **me**, please feel free to email me at *agarwalrishabh2005 [at] g[oogle]mail [dot] com*
