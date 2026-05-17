@@ -4,8 +4,9 @@
 
 * I like to innovate and make things I find interesting!
 * A passionate AI/DL/ML researcher/developer/aficionado and HPC and distributed computing enthusiast with interests in system design and large projects. 
-* I’m currently working on Research Paper implementations and Neural Networks Engine in C++ and CUDA.
-* Also learning Rust and found out about neuromorphics computing so will plan a project in that as well. I am also thinking of writing a dataloader in Rust/C++ for SimpleNet (my neural networks engine).
+* I’m currently working on a Neural Networks Engine in C++ and CUDA and another project (stay tuned!).
+* I recently joined the ROCm team at [AMD](https://www.amd.com/en.html) as a ML intern/Co-Op/PEY (Summer 2026).
+* I am also thinking of writing a dataloader in Rust/C++ for SimpleNet (my neural networks engine).
 
 * Experience and interests in : Startups, Deep Learning, Optimization and low level code, Algorithms, Computer Graphics, and Material Sciences and Physics to name a few (I have a lot of things that I find interesting ~~and get overwhelmed too everyday as I feel I'm not learning fast enough~~)
 
@@ -14,6 +15,8 @@
 * I will respond if the proposals are a good match for my interests
 * Connect with me on LinkedIn: send cool technological ideas/things/books my way or any opportunity you would like to talk about!
 
+
+<!--Also learning Rust and found out about neuromorphics computing so will plan a project in that as well. -->
 
 
 <h2 style="text-align: center;"> Tech Stack </h2>
