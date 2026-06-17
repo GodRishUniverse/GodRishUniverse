@@ -4,9 +4,8 @@
 
 * I like to innovate and make things I find interesting!
 * A passionate AI/DL/ML researcher/developer/aficionado and HPC and distributed computing enthusiast with interests in system design and large projects. 
-* I’m currently working on a Neural Networks Engine in C++ and CUDA and another project (stay tuned!).
+* I’m currently working on a Neural Networks Engine in C++ and CUDA.
 * I recently joined the ROCm team at [AMD](https://www.amd.com/en.html) as a ML intern/Co-Op/PEY (Summer 2026).
-* I am also thinking of writing a dataloader in Rust/C++ for SimpleNet (my neural networks engine).
 
 * Experience and interests in : Startups, Deep Learning, Optimization, Low level code, ML Compilers (a new interest) and compilers in general, Algorithms, Computer Graphics, and Material Sciences and Physics to name a few (I have a lot of things that I find interesting ~~and get overwhelmed too everyday as I feel I'm not learning fast enough~~)
 
